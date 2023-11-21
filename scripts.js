@@ -31,7 +31,6 @@ window.onload = function() {
 
     localStorage.removeItem('cidade');
 
-    // Obter localização do dispositivo
     if (navigator.geolocation) {
         navigator.geolocation.getCurrentPosition(async function(position) {
             const latitude = position.coords.latitude;
