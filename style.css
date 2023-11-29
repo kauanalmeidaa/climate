@@ -84,8 +84,9 @@ body {
 
 .link {
     color: rgb(255, 255, 255);
-    font-size: 12px;
+    font-size: 15px;
     position: top;
-    margin-left: 212px;
+    margin-left: 200px;
     max-width: 500px;
+    text-decoration: underline;
 }
