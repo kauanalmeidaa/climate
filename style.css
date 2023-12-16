@@ -11,7 +11,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(imagens/Paisagens-Wallpaper-4.webp);
+    background-image: url("Paisagens-Wallpaper-4.webp");
 }
 
 .caixa-maior {
